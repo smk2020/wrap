@@ -1,0 +1,16 @@
+//= require loop/js/jquery-2.1.0
+//= require loop/js/bootstrap.js
+//= require loop/js/plugins/scrollto/jquery.scrollTo-1.4.3.1-min
+//= require loop/js/plugins/scrollto/jquery.localscroll-1.2.7-min
+//= require loop/js/plugins/easing/jquery.easing.min
+//= require loop/js/plugins/google-map/google-map
+//= require loop/js/plugins/parallax/jquery.parallax-1.1.3
+//= require loop/js/plugins/jpreloader/jpreloader.min
+//= require loop/js/plugins/isotope/imagesloaded.pkgd
+//= require loop/js/plugins/isotope/isotope.pkgd.min
+//= require loop/js/plugins/wow/wow
+//= require loop/js/plugins/flexslider/jquery.flexslider-min
+//= require loop/js/plugins/magnific/jquery.magnific-popup.min
+//= require loop/js/plugins/supersized/supersized.3.2.7.min
+//= require loop/js/plugins/supersized/supersized.shutter.min
+//= require loop/js/loop.js
